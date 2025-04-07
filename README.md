@@ -5,9 +5,6 @@ This repository is dedicated to practicing and experimenting with Agentic AI con
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Agentic AI refers to artificial intelligence systems that can perform tasks autonomously, make decisions, and act on their own. This repository contains various exercises, examples, and experiments related to Agentic AI to help in learning and understanding these concepts.
